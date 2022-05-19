@@ -1,0 +1,8 @@
+.el-popover.teshu.el-popper.is-light {
+    color: #f56c6c;
+    border: 1px solid #f56c6c;
+  }
+  .teshu.el-popper.is-light .el-popper__arrow::before {
+    border: 1px solid #f56c6c;
+  }
+ 
